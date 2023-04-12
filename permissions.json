@@ -1,0 +1,19 @@
+{
+    "default": {
+        "flags": [
+          "no_config_location",
+          "no_bluetooth",
+          "no_config_mobile_networks"
+        ],
+        "allowCamera": false,
+        "allowWifi": true
+    },
+    "1234567": {
+      "flags": [
+        "no_bluetooth",
+        "no_config_mobile_networks"
+      ],
+      "allowCamera": false,
+      "allowWifi": false
+    }
+  }
