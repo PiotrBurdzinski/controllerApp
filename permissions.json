@@ -10,9 +10,11 @@
     },
     "1234567": {
       "flags": [
-        "no_config_mobile_networks"
+        "no_config_location",
+         "no_bluetooth",
+         "no_config_mobile_networks"
       ],
-      "allowCamera": true,
+      "allowCamera": false,
       "allowWifi": true
     }
   }
