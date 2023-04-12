@@ -14,6 +14,6 @@
         "no_config_mobile_networks"
       ],
       "allowCamera": true,
-      "allowWifi": false
+      "allowWifi": true
     }
   }
