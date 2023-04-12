@@ -5,7 +5,7 @@
           "no_bluetooth",
           "no_config_mobile_networks"
         ],
-        "allowCamera": true,
+        "allowCamera": false,
         "allowWifi": true
     },
     "1234567": {
