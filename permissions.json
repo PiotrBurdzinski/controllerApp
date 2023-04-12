@@ -13,7 +13,7 @@
         "no_bluetooth",
         "no_config_mobile_networks"
       ],
-      "allowCamera": false,
+      "allowCamera": true,
       "allowWifi": false
     }
   }
